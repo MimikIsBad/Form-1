@@ -131,3 +131,15 @@ input:invalid {
     font-size: 1em;
 }
 
+.text-position {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 2px;
+    left: 140px;
+    margin: 0;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
